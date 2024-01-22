@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fernando Peralta</h1>
 <h3 align="center">Web developer from Mexico City</h3>
 
-<a href="https://app.daily.dev/fermx95" align="center" style="width:100%;display:flex;justify-content:center;"><img src="https://api.daily.dev/devcards/30b66e667fad46c093e9e9b048ded44a.png?r=im1" width="400" alt="Fernando Peralta's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/fermx95">
+    <img src="https://api.daily.dev/devcards/30b66e667fad46c093e9e9b048ded44a.png?r=im1" width="400" alt="Fernando Peralta's Dev Card"/>
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoperaltacarlos&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoperaltacarlos" /> </p>
 
