@@ -1,34 +1,46 @@
-<h1 align="center">Hi 👋, I'm Fernando Peralta</h1>
-<h3 align="center">Web developer from Mexico City</h3>
+# Fernando Peralta
 
-<p align="center">
-  <a href="https://app.daily.dev/fermx95">
-    <img src="https://api.daily.dev/devcards/30b66e667fad46c093e9e9b048ded44a.png?r=im1" width="400" alt="Fernando Peralta's Dev Card"/>
-  </a>
-</p>
+**Desarrollador web senior en Ciudad de México · Senior Web Developer in Mexico City**
 
+[![Portafolio de Fernando Peralta](https://img.shields.io/badge/Portfolio-fernandoperalta.xyz-333333?style=flat)](https://fernandoperalta.xyz/) [![DevStoreMX — agencia de desarrollo web](https://img.shields.io/badge/Agency-DevStoreMX-666666?style=flat)](https://devstoremx.xyz/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoperaltacarlos&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoperaltacarlos" /> </p>
+Soy Fernando Peralta, desarrollador web con más de siete años de experiencia en sitios, aplicaciones y ecommerce. Trabajo en front-end y full-stack, con Shopify y WordPress como especialidades. Mi trabajo combina desarrollo, rendimiento, SEO técnico y mantenimiento en producción. He trabajado en desarrollo y control de calidad web en HSBC y liderado un equipo de desarrollo y diseño en Industria Social.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandoperaltacarlos" alt="fernandoperaltacarlos" /></a> </p>
+I'm Fernando Peralta, a web developer with over seven years of experience building websites, applications and ecommerce platforms. I work across front-end and full-stack development, specializing in Shopify and WordPress. My work covers performance, technical SEO and production maintenance. My experience includes web development and quality control at HSBC and leading a development and design team at Industria Social.
 
-- 🌱 I’m currently learning **English, React**
+[Portafolio y experiencia profesional en español](https://fernandoperalta.xyz/es/) · [Portfolio and professional experience in English](https://fernandoperalta.xyz/)
 
-- 👨‍💻 All of my projects are available at [https://fernandoperaltacarlos.github.io/Proyectos/](https://fernandoperaltacarlos.github.io/Proyectos/)
+## Especialidades · Expertise
 
-- 📫 How to reach me **Fernando_Peraltac@hotmail.com**
+Desarrollo interfaces, tiendas en línea e integraciones a medida. Cada perfil reúne tecnologías, experiencia y proyectos relacionados.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fernandoperaltacarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/fernandoperaltacarlos" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fernandodperaltac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandodperaltac/" height="30" width="40" /></a>
-</p>
+I build interfaces, online stores and custom integrations. Each profile connects my technologies with relevant experience and projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+| Especialidad · Specialty | Tecnologías · Technologies |
+| --- | --- |
+| [Desarrollador Shopify](https://fernandoperalta.xyz/es/desarrollador-shopify/) · [Shopify Developer](https://fernandoperalta.xyz/shopify-developer/) | Liquid, Online Store 2.0, JavaScript |
+| [Desarrollador WordPress](https://fernandoperalta.xyz/es/desarrollador-wordpress/) · [WordPress Developer](https://fernandoperalta.xyz/wordpress-developer/) | WooCommerce, PHP, plugins, Elementor |
+| [Desarrollador Front-End](https://fernandoperalta.xyz/es/desarrollador-front-end/) · [Front-End Developer](https://fernandoperalta.xyz/front-end-developer/) | React, Next.js, Astro, TypeScript, Tailwind CSS |
+| [Desarrollador Full Stack](https://fernandoperalta.xyz/es/desarrollador-full-stack/) · [Full-Stack Developer](https://fernandoperalta.xyz/full-stack-developer/) | Node.js, PHP, Laravel, MySQL |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoperaltacarlos&show_icons=true&locale=en&layout=compact" alt="fernandoperaltacarlos" /></p>
+## Trabajo seleccionado · Selected work
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoperaltacarlos&show_icons=true&locale=en" alt="fernandoperaltacarlos" /></p>
+- **Charlotte's Web · Shopify.** Actualicé un tema comercial, migrando secciones, configuración y código personalizado con validación en staging. Upgraded a commercial theme, migrating sections, settings and custom code with staging validation. [Caso en español](https://fernandoperalta.xyz/es/casos-de-estudio/actualizacion-sitio-web-tema-shopify/) · [Case study in English](https://fernandoperalta.xyz/case-studies/shopify-theme-website-upgrade/).
+- **GroovePro · WooCommerce.** Desarrollé dos plugins PHP para reglas de envío y bundles con precios por cantidad. Built two PHP plugins for shipping rules and custom bundles with quantity-based pricing. [Caso en español](https://fernandoperalta.xyz/es/casos-de-estudio/plugins-woocommerce-envios-bundles-personalizados/) · [Case study in English](https://fernandoperalta.xyz/case-studies/custom-woocommerce-shipping-bundles-plugins/).
+- **HSBC México · Chromium.** Desarrollé una extensión JavaScript para buscar en el DOM y verificar pasos de control de calidad de tickets. Built a JavaScript extension for DOM search and ticket quality-control checklists. [Caso en español](https://fernandoperalta.xyz/es/casos-de-estudio/desarrollo-extension-chromium-control-calidad-tickets/) · [Case study in English](https://fernandoperalta.xyz/case-studies/chromium-extension-development-ticket-quality-control/).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoperaltacarlos&" alt="fernandoperaltacarlos" /></p>
+[Todos los casos de estudio](https://fernandoperalta.xyz/es/casos-de-estudio/) · [All case studies](https://fernandoperalta.xyz/case-studies/)
+
+## Producto · Product
+
+**Reminder.** Mi aplicación de recordatorios para macOS y Windows, construida con Tauri, React y Rust: calendario mensual, notificaciones nativas y ventana flotante. My reminder app for macOS and Windows, built with Tauri, React and Rust: a monthly calendar, native notifications and a floating window.
+
+[Conocer Reminder en español](https://fernandoperalta.xyz/es/reminder/) · [Explore Reminder in English](https://fernandoperalta.xyz/reminder/)
+
+## Colaboremos · Let's work together
+
+Soy Technical Lead en [DevStoreMX, mi agencia de desarrollo web y ecommerce](https://devstoremx.xyz/). Considero proyectos freelance, colaboraciones con agencias y oportunidades de empleo.
+
+I'm Technical Lead at DevStoreMX, my web development and ecommerce agency. I'm open to freelance projects, agency collaborations and employment opportunities.
+
+[Contacto · Email](mailto:hola@fernandoperalta.xyz): **hola@fernandoperalta.xyz** · [LinkedIn](https://www.linkedin.com/in/fernandodperaltac/) · [Artículos · Articles on DEV.to](https://dev.to/fernandoperaltacarlos)
